@@ -1,0 +1,43 @@
+why docker came ?
+ans:suppose you have team of 100 people all working on same app but all have diff operating system,they install diff verson of depandies,diff liberyes ones they start devloping they get versone,depandies error to overcome this we use docker
+by this all 100 devloper not want to install depandency manualy.
+
+waht is CLI command ?
+
+what is docker?
+ans: docker help us to create container in which we stop {liberies,depandies with verson,code} by making its single units we can provide all devloper interms of packages which will support any operating system 
+this contaners is leightwate(less size),portable(easy to send),easy to add new or remove file.
+
+what is docker image ?
+docker image is like executable file like "packege.json" whihc define all{versone & instruction}  which is sheared to each devloper and devloper will install this image and it become contaner like{node.module} he can start devlopment.
+
+relation of container & image is like ?
+class relation with object where all memory is take by objects and class is blueprint 
+packages.json and node.module
+this kind relation it have.
+
+
+what is dockerhub?
+by using this we can create docker image like github we push code 
+and by url send to 100 devloper like git-url and devloper can past it in docker-dekstop and use based in there need.
+
+
+what is docker dekstop?
+actuly docker dekstop put one lightweight layer on top of 
+by using this 100 devlipers iteract with container.
+
+
+diff in docker and vertual meshines ?
+there us three layer in PC
+1)application layer
+2)host Operating system kernel
+3)hordware
+*hear 2-leyer operting system is located it create application layer to run over apps
+how vertual meshine make change in this layer:- its use 3 layer but it replace 2 & 1 leyer by over vertual meshine 
+how docker make change in this layer :- its use 2 & 3 layer but it replace 1 leyer by over docker enviromnet. 
+
+
+
+
+
+
